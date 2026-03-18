@@ -77,7 +77,6 @@ source "drivers/adc/Kconfig.b91"
 source "drivers/adc/Kconfig.it51xxx"
 
 source "drivers/adc/Kconfig.it8xxx2"
-
 source "drivers/adc/Kconfig.mcux"
 
 source "drivers/adc/Kconfig.nrfx"
@@ -97,6 +96,8 @@ source "drivers/adc/Kconfig.xec"
 source "drivers/adc/Kconfig.lmp90xxx"
 
 source "drivers/adc/Kconfig.mcp320x"
+
+source "drivers/adc/Kconfig.mcp3221"
 
 source "drivers/adc/Kconfig.mcp356xr"
 
